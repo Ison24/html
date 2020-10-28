@@ -1,0 +1,42 @@
+
+body {
+  margin: 0;
+  text-align: center;
+}
+h1 {
+  font-size: 5.625rem;
+  margin-top: 0;
+  font-family: 'harryp';
+  
+}
+h2 {
+  font-size: 2.5rem;
+  font-family: 'harryp';
+}
+h3 {
+  font-size: 2rem;
+  font-family: 'harryp';
+}
+p {
+  font-size: 1.5rem;
+  font-family: 'harryp';
+}
+a {
+  font-family: 'harryp';
+  color: #0f3057;
+}
+.topcontainer {
+  background-color: #d9e4dd;
+  padding-top: 100px;
+  position: relative;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
